@@ -1,0 +1,19 @@
+{
+    "Party Pokemon": [
+        {
+            "item": true,
+            "name": "Squirtle",
+            "type": "Water"
+        },
+        {
+            "item": false,
+            "name": "Bulbasaur",
+            "type": "Grass"
+        },
+        {
+            "item": false,
+            "name": "Charmander",
+            "type": "Fire"
+        }
+    ]
+}
